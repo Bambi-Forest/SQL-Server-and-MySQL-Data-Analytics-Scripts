@@ -7,7 +7,7 @@ Hello, This is my Data Analytics journey for the Maven Analytics Business Intell
 
 [Clink Here to view MavenMovies_Mid_Course_Project Project](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/MavenMovies_Mid_Course_Project.sql)
 
-[Dataset Used](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/create_mavenmovies.sql)
+[Maven Movies Dataset Used](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/create_mavenmovies.sql)
 
 This project is where I:
 
