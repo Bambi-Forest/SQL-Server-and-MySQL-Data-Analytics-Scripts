@@ -17,12 +17,13 @@ The Objective:
 [email addresses], and the [store identification] number where they work. 
 */ 
 SELECT
-	s.last_name,
-	s.first_name,
+    s.last_name,
+    s.first_name,
     s.store_id,
     s.email
 FROM staff s
-ORDER BY s.last_name;
+ORDER BY 
+	s.last_name;
 
 
 
@@ -41,9 +42,10 @@ GROUP BY
 SELECT 
 	i.inventory_id,
 	COUNT(CASE WHEN i.store_id = 1 THEN i.inventory_id ELSE NULL END) AS Store_1_stock,
-    COUNT(CASE WHEN i.store_id = 2 THEN i.inventory_id ELSE NULL END) AS Store_2_stock
+        COUNT(CASE WHEN i.store_id = 2 THEN i.inventory_id ELSE NULL END) AS Store_2_stock
 FROM inventory i
-GROUP BY i.inventory_id;
+GROUP BY 
+	i.inventory_id;
 
 
 /*
@@ -74,7 +76,7 @@ FROM customer c;
 
 -- See if any of the Email address are used more than Once
 SELECT 
-	c.email,
+    c.email,
     COUNT(c.email) AS number_of_email_Addresses_used
 FROM customer c
 GROUP BY 
@@ -98,7 +100,7 @@ SELECT
 	COUNT(DISTINCT i.film_id ) AS unique_films
     FROM inventory i
     GROUP BY 
-		i.store_id;
+	i.store_id;
 		
 
 -- count of the unique categories of films
@@ -116,7 +118,7 @@ the most expensive to replace, and the average of all films you carry. ``
 */
 
 SELECT
-	MIN(f.replacement_cost) AS cheapest_replacement_cost,
+    MIN(f.replacement_cost) AS cheapest_replacement_cost,
     MAX(f.replacement_cost) AS expensive_replacement_cost,
     AVG(f.replacement_cost) AS average_replacement_cost
 FROM film f;
