@@ -18,6 +18,7 @@ This project is where I:
 The Objective:
 - Use Maven Movies Database to answer Underwriters's questions.
 - Used Select statements.
+- Aggregate Functions
 - Used Case and Count Method to pivot results.
 
 
@@ -38,6 +39,7 @@ seems very generous, so you are going to entertain his questions.
         
 The Objective:
 - Use Maven Movies Database to answer your business partner questions.
-- Used Joins.
+- Used Table Joins.
+- Aggregate Functions
 - Used Case and Count Method to pivot results.
 
