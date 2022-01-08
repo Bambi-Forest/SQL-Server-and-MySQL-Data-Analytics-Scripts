@@ -21,4 +21,23 @@ The Objective:
 - Used Case and Count Method to pivot results.
 
 
+[Project 2] MySQL Project:MavenMovies_Final_Course_Project
+
+[Clink Here to view MavenMovies_Final_Course_Project Project](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/MavenMovies_Final_Course_Project.sql)
+
+[Maven Movies Dataset Used](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/create_mavenmovies.sql)
+
+This project is where I:
+
+•  Analyze Maven Movies large data set.
+- The Situation: 
+- You and your business partner were recently approached by another local business owner
+who is interested in purchasing Maven Movies. He primarily owns restaurants and bars, so he
+has lots of questions for you about your business and the rental business in general. His offer
+seems very generous, so you are going to entertain his questions.
+        
+The Objective:
+- Use Maven Movies Database to answer your business partner questions.
+- Used Joins.
+- Used Case and Count Method to pivot results.
 
