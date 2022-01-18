@@ -12,7 +12,7 @@ Hello, This is my Data Analytics journey for the Maven Analytics Business Intell
 This project is where I:
 
 •  Analyze Maven Movies large data set.
-The Situation: 
+- The Situation: 
 - The company's insurance policy is up for renewal and the insurance company's underwriters need some updated information from us before they will issue a new policy.
         
 The Objective:
@@ -31,7 +31,7 @@ The Objective:
 This project is where I:
 
 •  Analyze Maven Movies large data set.
-The Situation: 
+- The Situation: 
 - You and your business partner were recently approached by another local business owner
 who is interested in purchasing Maven Movies. He primarily owns restaurants and bars, so he
 has lots of questions for you about your business and the rental business in general. His offer
