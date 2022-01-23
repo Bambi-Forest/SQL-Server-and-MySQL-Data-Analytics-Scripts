@@ -47,7 +47,7 @@ The Objective:
 
 [Project 2] MySQL Project: Analyzing Traffic Sources
 
-[Clink Here to view Analyzing Traffic Sources Project](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/MavenMovies_Final_Course_Project.sql)
+[Clink Here to view Analyzing Traffic Sources Project](https://github.com/Bambi-Forest/SQL-Server-and-MySQL-Data-Analytics-Scripts/blob/main/Analyzing%20Traffic%20Sources_Bid%20Optimization_Trend%20Analysis.sql)
 
 [mavenfuzzyfactory Dataset Used](Can't upload due to copyright)
 
