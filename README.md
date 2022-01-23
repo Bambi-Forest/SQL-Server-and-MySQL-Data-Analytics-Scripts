@@ -55,9 +55,12 @@ This project is where I:
 
 •  Analyze mavenfuzzyfactory large data set.
 - The Situation: 
-- I am a junior data Analyst working for a Marketing comapny named MavenFuzzy Factory. The marketing manager wishes to know what sources of traffic is our largest source of traffic. He would also like to know more about how the session to order conversion rates are affecting our bids and if we can optimize them so we can save money.
+- I am a junior data Analyst working for a Marketing company named MavenFuzzy Factory. The marketing manager wishes to know what sources of traffic our largest source of traffic is. He would also like to know more about how the session to order conversion rates are affecting our bids and if we can optimize them so we can save money.
         
 The Objective:
-- Which source of traffic and compaign is driving our largest volume of sessions.
-- What is our conversation rate of sessions to orders to determine if our bids are too high.
-- Which device type (mobile vs desktop) is affecting our volume rate which determine how we will bid.
+- Which source of traffic and campaign is driving our largest volume of sessions.
+- What is our conversation rate of sessions-to-orders to determine if our bids are too high.
+- Which device type (mobile vs desktop) is affecting our volume rate, which determines how we will bid.
+
+
+
